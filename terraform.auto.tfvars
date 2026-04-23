@@ -1,7 +1,7 @@
 # application_name = "inventory"
 # project_name     = "supplychain"
-seq_id           = "002"
-bucket_name      = "statefile-bucket-002"
+seq_id           = "000"
+bucket_name      = "statefile-bucket-000"
 # mandatory_tags = {
 #   Application = "inventory"
 #   Project     = "supplychain"
